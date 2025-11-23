@@ -57,4 +57,4 @@ The Developer may update this Privacy Policy. You will be notified in the App if
 
 ## 12. Contact
 
-If you have questions, you may contact the Developer at: **my email**
+If you have questions, you may contact the Developer at: **vladiodev@gmail.com**
